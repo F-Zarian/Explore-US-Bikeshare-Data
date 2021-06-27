@@ -41,4 +41,4 @@ The answers to the questions above will determine the city and timeframe on whic
 
 # License
 
-### The contents of this repository are covered under the [MIT License](https:aset/blob/main/LICENSE).
+### The contents of this repository are covered under the [MIT License](https://github.com/F-Zarian/Explore-US-Bikeshare-Data/blob/main/LICENSE).
