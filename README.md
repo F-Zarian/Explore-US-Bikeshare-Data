@@ -15,7 +15,7 @@ Three city dataset files  were used to explore the bikeshare data:
 ## Statistics Computed
 In this project, I used Python code to compute a variety of descriptive statistics. The following information were calcualated:
 - Popular times of travel (i.e., most common month, most common day of week, most common hour of day)
-- Popular stations and trip (i.e., most common start station,	most common end station, most common trip from start to end)
+- Popular stations and trips (i.e., most common start station,	most common end station, most common trip from start to end)
 - Trip duration (i.e., total travel time,	average travel time)
 - User info (i.e., counts of each user type, counts of each gender (only available for NYC and Chicago),	earliest, most recent, most common year of birth (only available for NYC and Chicago))
 
